@@ -1,1 +1,3 @@
-# INT354-Project
+# Machine Learning
+
+Machine Learning project on Computer Hardwre.
